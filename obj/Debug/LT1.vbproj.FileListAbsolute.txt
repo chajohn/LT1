@@ -1,0 +1,13 @@
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\bin\Debug\LT1.exe.config
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\bin\Debug\LT1.exe
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\bin\Debug\LT1.pdb
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\bin\Debug\LT1.xml
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.vbprojResolveAssemblyReference.cache
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.Resources.resources
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.SplashScreen.resources
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.vbproj.GenerateResource.Cache
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.exe
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.xml
+c:\users\p340\documents\visual studio 2015\Projects\LT1\LT1\obj\Debug\LT1.pdb
+C:\Users\P340\Documents\Visual Studio 2015\Projects\LT1\LT1\obj\Debug\LT1.Form2.resources
+C:\Users\P340\Documents\Visual Studio 2015\Projects\LT1\LT1\obj\Debug\LT1.Games.resources
